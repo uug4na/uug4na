@@ -6,3 +6,5 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+ <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
