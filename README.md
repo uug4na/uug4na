@@ -7,6 +7,4 @@
   </a>
 </div>
 
- <img align="center" alt="Coding" width="550" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
-
-![image](https://user-images.githubusercontent.com/65070195/182689575-14118751-f55c-45b7-8b5b-192355a179e7.png)
+ <img align="center" alt="Coding" width="600" src="https://78.media.tumblr.com/8da7d79850d2c4e71176625c1b1e00e3/tumblr_oh57klqgOr1t1bfwbo2_1280.gif">
