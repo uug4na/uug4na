@@ -7,4 +7,4 @@
   </a>
 </div>
 
- <img align="center" alt="Coding" width=550" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
+ <img align="center" alt="Coding" width="550" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
