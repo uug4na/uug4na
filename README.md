@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="![image](https://user-images.githubusercontent.com/65070195/182551361-fa1fc7f7-3bf6-4edb-ba9a-578c9fb1d3f8.png)" width="600"/>
-</div> 
+![image](https://user-images.githubusercontent.com/65070195/182551361-fa1fc7f7-3bf6-4edb-ba9a-578c9fb1d3f8.png)
+
 
 <div id="badges">
   <a href="https://discord.com/users/unagaldai#6195">
