@@ -1,6 +1,6 @@
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100"/>
-</div> -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/PbYB085obto54Q4jU6/giphy.gif" width="100"/>
+</div> 
 
 <div id="badges">
   <a href="https://discord.com/users/unagaldai#6195">
