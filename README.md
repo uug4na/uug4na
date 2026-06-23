@@ -1,3 +1,5 @@
+21yo infosec dude, into web exp n anything
+contact:
 <div id="badges">
   <a href="https://discord.com/users/uug4na#7043">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
