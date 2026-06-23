@@ -1,4 +1,4 @@
-21yo infosec dude, into web exp n anything
+21yo infosec dude, into web exp n anything<br/>
 contact:
 <div id="badges">
   <a href="https://discord.com/users/uug4na#7043">
