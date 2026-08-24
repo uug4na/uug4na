@@ -1,12 +1,25 @@
 21yo infosec dude, into web exp n anything<br/>
+
 contact:
 <div id="badges">
   <a href="https://discord.com/users/uug4na#7043">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img
+      src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord Badge"
+    />
   </a>
-  <a href="https://twitter.com/uug4na_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
+  <a href="https://x.com/uug4na_">
+    <img
+      src="https://img.shields.io/badge/@uug4na__-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="X Badge"
+    />
   </a>
 </div>
-<!-- ![asd](https://i.pinimg.com/564x/36/9c/a6/369ca66cef48c5b07441aa9ba54574a1.jpg) -->
-<!-- <img src="https://i.pinimg.com/564x/e0/fd/04/e0fd0450e7ec85e971682e39bbbec02d.jpg" alt="!"> -->
+
+<br/>
+
+<img
+  src="https://i.pinimg.com/1200x/2f/36/ab/2f36abab6675201d6846114999d0eaec.jpg"
+  alt="Bottom image"
+/>
